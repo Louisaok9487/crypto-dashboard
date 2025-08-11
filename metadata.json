@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Fear & Greed Index",
+  "description": "Visualizes the Crypto Fear & Greed Index from alternative.me, showing market sentiment for Bitcoin and other large cryptocurrencies.",
+  "requestFramePermissions": []
+}
